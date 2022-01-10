@@ -1,4 +1,4 @@
-# Programming Exercise 1
+# Rust Programming Exercise 1
 
 Complete the following Rust Kata:
 https://www.codewars.com/kata/55908aad6620c066bc00002a
