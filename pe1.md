@@ -8,3 +8,9 @@ Submit screenshots like the following to Blackboard. Make sure your screenshots 
 ![](https://i.imgur.com/ZSilFt9.png)
 
 ![](https://i.imgur.com/igRrP91.png)
+
+## Bonus points (x2) for the one(s) who reach the highest level in Rust
+
+To claim your bonus points, post your Rust rank and percentage in the Q&A channel in Teams.
+
+![](https://i.imgur.com/NKXOtIF.png)
