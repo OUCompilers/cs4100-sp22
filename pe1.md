@@ -13,4 +13,4 @@ Submit screenshots like the following to Blackboard. Make sure your screenshots 
 
 To claim your bonus points, post your Rust rank and percentage in the Q&A channel in Teams.
 
-![](https://i.imgur.com/NKXOtIF.png)
+![](https://i.imgur.com/oJNrVRV.png)
