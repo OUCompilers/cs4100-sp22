@@ -32,7 +32,7 @@ This is a demanding course that requires extensive programming work, in the form
 
 The course consists of weekly lectures (Tu/Th), attendance at which is required. The programming assignments for this course are extensive and time consuming, so be prepared!
 
-In addition to biweekly homework assignments, there will be a midterm exam (Week 9, approximately 15% of your grade) and a final (approximately 25%). The homeworks (programming assignments) are worth approximately 40%. We'll have Blackboard quizzes on weeks when no homework is due (total 10%). 
+In addition to biweekly homework assignments, there will be a midterm exam (Week 9, approximately 15% of your grade) and a final (approximately 25%). The homeworks (programming assignments) are worth approximately 40%. We'll also have simple Blackboard quizzes (10%) and programming exercises (10%). 
 
 ### Grade Breakdown
 
@@ -52,21 +52,21 @@ The schedule is subject to revision.
 
 | Week                        | Topic                                 | Reading                        | Assignment |
 |-----------------------------|---------------------------------------|--------------------------------|------------|
-| Week 1 (11 Jan) | Intro. to the course, compilers, Rust | [The Rust Book](https://doc.rust-lang.org/book/index.html) 1-3 | Q0 (22 Jan) / PE1 |
-| Week 2 (18 Jan) | Rust contd. | [The Rust Book](https://doc.rust-lang.org/book/index.html) 4-6, 8 | Q1 (29 Jan) / PE2 |
-| Week 3 (25 Jan) | Rust contd. | [The Rust Book](https://doc.rust-lang.org/book/index.html) 9, 10.1, 10.2 | [PA0: Intro. to Rust](pa/0.md) (6 Feb) |
-| Week 4 (1 Feb) | Virtual machines, bytecode, assemblers | Crafting Interpreters [14](http://www.craftinginterpreters.com/chunks-of-bytecode.html), [15](http://www.craftinginterpreters.com/a-virtual-machine.html) | Q2 (12 Feb) |
-| Week 5 (8 Feb) | Garbage collection, concurrency | Appel 13 | [PA1: Assembler](pa/1.md) (20 Feb) |
-| Week 6 (15 Feb) | Regular languages, regular expressions | Appel 2 (through 2.2) | Q3 (26 Feb) |
-| Week 7 (22 Feb) | DFAs, NFAs, lexers and lexer generators | Appel 2.3-2.5 | Q4 (5 Mar)  |
-| Week 8 (1 Mar) | Context-free languages, pushdown automata | Appel 3 | [PA2: VM](pa/2.md) (13 Mar) |
-| Week 9 (15 Mar) | Midterm review | | Midterm Exam (18 Mar) |
+| Week 1 (11 Jan) | Intro. to the course, compilers, Rust | [The Rust Book](https://doc.rust-lang.org/book/index.html) 1-3 | Q0/PE1 (15 Jan) |
+| Week 2 (18 Jan) | Rust contd. | [The Rust Book](https://doc.rust-lang.org/book/index.html) 4-6, 8 | Q1/PE2 (22 Jan)  |
+| Week 3 (25 Jan) | Rust contd. | [The Rust Book](https://doc.rust-lang.org/book/index.html) 9, 10.1, 10.2 | [PA0: Intro. to Rust](pa/0.md) (29 Jan) |
+| Week 4 (1 Feb) | Virtual machines, bytecode, assemblers | Crafting Interpreters [14](http://www.craftinginterpreters.com/chunks-of-bytecode.html), [15](http://www.craftinginterpreters.com/a-virtual-machine.html) | Q2 (5 Feb) |
+| Week 5 (8 Feb) | Garbage collection, concurrency | Appel 13 | [PA1: Assembler](pa/1.md) (12 Feb) |
+| Week 6 (15 Feb) | Regular languages, regular expressions | Appel 2 (through 2.2) | Q3 (19 Feb) |
+| Week 7 (22 Feb) | DFAs, NFAs, lexers and lexer generators | Appel 2.3-2.5 | Q4 (26 Feb)  |
+| Week 8 (1 Mar) | Context-free languages, pushdown automata | Appel 3 | [PA2: VM](pa/2.md) (5 Mar) |
+| Week 9 (15 Mar) | Midterm review | | Midterm Exam (Thursday) |
 | Week 10 (22 Mar) | Recursive descent and predictive parsing, parser generators | Appel 3.2-3.3 | [PA3: GC](pa/3.md) (27 Mar) |
 | Week 11 (29 Mar) | Abstract syntax trees, type systems, typechecking | TAPL 3, 8 | Q5 (2 Apr) |
 | Week 12 (5 Apr) | Intermediate representations, code generation | [Intermediate Representations](doc/ir.md), [Code Generation](doc/codegen.md) | No quiz -- work on PA4! |
-| Week 13 (12 Apr) | IR/codegen continued, control-flow graphs | Appel 7.1 | [PA4: IR](pa/4.md) (17 Apr) |
+| Week 13 (12 Apr) | IR/codegen continued, control-flow graphs | Appel 7.1 | [PA4: IR](pa/4.md) (16 Apr) |
 | Week 14 (19 Apr) | Dataflow/liveness analysis | Appel 10.1 | No quiz -- study for finals! |
-| Apr 25 - Apr 29 | **FINAL EXAM** (TBD) | | [PA5](pa/5.md) (1 May) |
+| Apr 25 - Apr 29 | **FINAL EXAM** (TBD) | | [PA5](pa/5.md) (23 Apr)|
 <!-- | Week 14 (19 Apr) | Register allocation | Appel 11 | No quiz -- study for finals! | -->
 
 Assignments are due in Blackboard at 11:59pm unless otherwise specified. **Q0**, **Q1**, etc., denote quizzes in Blackboard, generally due on the Fridays of weeks with no due programming assignments (PAs).
