@@ -1,4 +1,4 @@
-# 8kyu - to_uppercase()
+# 8kyu - MakeUpperCase - to_uppercase()
 
 https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7
 
