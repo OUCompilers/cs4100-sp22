@@ -1,9 +1,10 @@
 # Rust Programming Exercise 2
 
 Complete the following Rust Kata as an exercise on control flow:
-https://www.codewars.com/kata/59a8570b570190d313000037
-https://www.codewars.com/kata/5a91a7c5fd8c061367000002
-https://www.codewars.com/kata/550554fd08b86f84fe000a58
+
+* 7 kyu - Sum of Cubes https://www.codewars.com/kata/59a8570b570190d313000037
+* 7 kyu - Minimum Steps (Array Series #6) https://www.codewars.com/kata/5a91a7c5fd8c061367000002
+* 6 kyu - Which are in? https://www.codewars.com/kata/550554fd08b86f84fe000a58
 
 Submit screenshots like the following to Blackboard. Make sure your screenshots shows your ID and your completed solutions. 
 The solutions must be in your "completed" section. (The solution screenshot below does not include all code. Yours should show all code.)
