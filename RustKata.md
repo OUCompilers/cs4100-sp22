@@ -15,9 +15,8 @@ https://www.codewars.com/kata/525f50e3b73515a6db000b83
 
 * u32: 32-bit unsigned integer type.
 * usize: The pointer-sized unsigned integer type. On a 32 bit target, this is 4 bytes and on a 64 bit target, this is 8 bytes. https://doc.rust-lang.org/std/primitive.usize.html
-* map
 * collect: collect the results of an iteration into a container.
-
+* map and collect: https://www.newline.co/@kkostov/the-rust-map-function-a-gateway-to-iterators--f991b22b
 
 # Other links
 
