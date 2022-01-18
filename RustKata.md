@@ -10,3 +10,8 @@ Type conversion within an expression.
 
 Translating my Python solution to Rust.
 https://www.codewars.com/kata/525f50e3b73515a6db000b83
+
+
+# Other links
+
+https://doc.rust-lang.org/rust-by-example/std/box.html
