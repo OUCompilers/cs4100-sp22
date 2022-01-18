@@ -11,6 +11,10 @@ Type conversion within an expression.
 Translating my Python solution to Rust.
 https://www.codewars.com/kata/525f50e3b73515a6db000b83
 
+# 6 kyu - [Pyramid Array](https://www.codewars.com/kata/515f51d438015969f7000013)
+
+Map and collect.
+
 
 # Other links
 
