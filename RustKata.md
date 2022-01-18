@@ -13,9 +13,10 @@ https://www.codewars.com/kata/525f50e3b73515a6db000b83
 
 # 6 kyu - [Pyramid Array](https://www.codewars.com/kata/515f51d438015969f7000013)
 
-Map and collect.
+Map and collect. 
 
 
 # Other links
 
-https://doc.rust-lang.org/rust-by-example/std/box.html
+* Vec: https://doc.rust-lang.org/rust-by-example/std/vec.html
+* Box: https://doc.rust-lang.org/rust-by-example/std/box.html
