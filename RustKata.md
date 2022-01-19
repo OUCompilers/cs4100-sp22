@@ -22,3 +22,4 @@ https://www.codewars.com/kata/525f50e3b73515a6db000b83
 
 * Vec: https://doc.rust-lang.org/rust-by-example/std/vec.html
 * Box: https://doc.rust-lang.org/rust-by-example/std/box.html
+* &str: https://dhghomon.github.io/easy_rust/Chapter_39.html
