@@ -3,7 +3,7 @@ use std::io::{self, BufRead, BufReader};
 // Read integers on stdin, printing them (in reverse) to stdout.
 fn main() -> io::Result<()> {
     // Allocate a new mutable stack (to hold the i32's).
-    let mut stack : Vec<i32> = Vec::new();
+    let mut stack: Vec<i32> = Vec::new();
     
     // Initialize a read buffer on stdin.
     let reader = BufReader::new(io::stdin());
