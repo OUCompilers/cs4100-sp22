@@ -1,6 +1,6 @@
 # Starting with Rust
 
-Rust has multiple toolchains. For this course, we'll be using the 1.57.0 release. The easiest way to install Rust is to first install `rustup`, the Rust version management tool. The directions below should are for Linux. For installing on other systems, see [the Rust website](https://www.rust-lang.org/tools/install).
+Rust has multiple toolchains. For this course, we'll be using the 1.58.0 release. The easiest way to install Rust is to first install `rustup`, the Rust version management tool. The directions below should are for Linux. For installing on other systems, see [the Rust website](https://www.rust-lang.org/tools/install).
 
 ## Install Rustup
 
@@ -10,12 +10,12 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 If you're uncomfortable running a script directly from the internet, you can first inspect the script by visiting the site [https://rustup.rs/](https://rustup.rs/).
 
-## Install Rust `1.57.0`
+## Install Rust `1.58.0`
 
 Once you've successfully installed `rustup`, you can install version `1.57.0` of the Rust compiler with:
 
 ```
-rustup install 1.57.0
+rustup install 1.58.0
 ```
 
 # Rust Tools
