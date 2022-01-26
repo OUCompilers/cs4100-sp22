@@ -18,6 +18,8 @@ Once you've successfully installed `rustup`, you can install version `1.57.0` of
 rustup install 1.58.0
 ```
 
+An installation example on pu1.cs.ohio.edu: https://i.imgur.com/JWnKArV.png
+
 # Rust Tools
 
 In addition to the main rust toolchain, there are a couple of command line tools that will make writing your code easier. You can install these as follows:
