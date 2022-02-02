@@ -98,7 +98,7 @@ That said, if we find that you have cheated on an assignment in this course, you
 * Be referred to the Office of Community Standards (which may take disciplinary action against you, possibly expulsion); and
 * Flunk the course (receive a final grade of F).
 
-Students in EECS courses such as this one must adhere to the Russ College of Engineering and Technology [Honor Code](https://www.ohio.edu/engineering/academics/academic-integrity.cfm##code), and to the OU [Student Code of Conduct](http://www.ohio.edu/communitystandards/academic/students.cfm). If you haven't read these policies, do so now.
+Students in EECS courses such as this one must adhere to the Russ College of Engineering and Technology [Honor Code](https://www.ohio.edu/engineering/current/leadership-integrity/academic-integrity), and to the OU [Student Code of Conduct](https://www.ohio.edu/student-affairs/community-standards/student-code-of-conduct). If you haven't read these policies, do so now.
 
 ## Students with Disabilities
 
