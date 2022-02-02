@@ -69,7 +69,7 @@ The schedule is subject to revision.
 | Apr 25 - Apr 29 | **FINAL EXAM** (TBD) | | [PA5](pa/5.md) (23 Apr)|
 <!-- | Week 14 (19 Apr) | Register allocation | Appel 11 | No quiz -- study for finals! | -->
 
-Assignments are due in Blackboard at 11:59pm unless otherwise specified. **Q0**, **Q1**, etc., denote quizzes in Blackboard, generally due on the Fridays of weeks with no due programming assignments (PAs).
+Assignments are due in Blackboard at 11:59pm unless otherwise specified. **Q0**, **Q1**, etc., denote quizzes in Blackboard.
 
 ## Homework and Collaboration Policies
 
