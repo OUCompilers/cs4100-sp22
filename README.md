@@ -44,7 +44,7 @@ In addition to biweekly homework assignments, there will be a midterm exam (Week
 | Midterm exam            | 15% |
 | Final exam              | 25% |
 
-Blackboard will be used to report grades and to post lecture notes, homeworks, and reading material. 
+Blackboard will be used to report grades and to post lecture notes, homeworks, and reading materials. 
 
 ## Schedule
 
