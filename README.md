@@ -18,7 +18,7 @@ Topics (subject to revision): regular expressions; finite automata; context-free
 
 There's no one textbook that covers everything we'll be talking about in this course. Instead, we'll assign readings each week from the following sources (and maybe others):
 
-* "Compilers: Principles, Techniques, and Tools, 2nd edition" by by Alfred Aho, Monica Lam, et al. Aug 31, 2006 (The purple dragon book)
+* "Compilers: Principles, Techniques, and Tools, 2nd edition" by Alfred Aho, Monica Lam, et al. Aug 31, 2006 (The purple dragon book)
 * Modern Compiler Implementation in ML, Andrew W. Appel (The tiger book)
 * Types and Programming Languages, Benjamin Pierce
 * [The Rust Book](https://doc.rust-lang.org/book/index.html)
