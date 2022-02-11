@@ -57,7 +57,7 @@ The schedule is subject to revision.
 | Week 3 (25 Jan) | Rust contd. | [The Rust Book](https://doc.rust-lang.org/book/index.html) 9, 10.1, 10.2 | [PA0: Intro. to Rust](pa/0.md) (Sat. 29 Jan) |
 | Week 4 (1 Feb) | Virtual machines, bytecode, assemblers | Crafting Interpreters [14](http://www.craftinginterpreters.com/chunks-of-bytecode.html), [15](http://www.craftinginterpreters.com/a-virtual-machine.html) | Q2/[PE3](pe3.md) (Sat. 5 Feb) |
 | Week 5 (8 Feb) | Garbage collection, concurrency | Appel 13 | [PA1: Assembler](pa/1.md) (12 Feb - extended to the following Wed) |
-| Week 6 (15 Feb) | Regular languages, regular expressions | Appel 2 (through 2.2) or Aho 3.3 | Q3 (19 Feb) |
+| Week 6 (15 Feb) | Regular languages, regular expressions | Appel 2 (through 2.2) or Aho 3.3 | Q3/[PE4](pe-rustlings.md) (19 Feb - extended to the following Wed) |
 | Week 7 (22 Feb) | DFAs, NFAs, lexers and lexer generators | Appel 2.3-2.5 | Q4 (26 Feb)  |
 | Week 8 (1 Mar) | Context-free languages, pushdown automata | Appel 3 | [PA2: VM](pa/2.md) (5 Mar) |
 | Week 9 (15 Mar) | Midterm review | | Midterm Exam (Thursday 17 Mar) |
