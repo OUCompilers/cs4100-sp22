@@ -4,7 +4,7 @@ Install and run rustlings:
 
 https://github.com/rust-lang/rustlings
 
-Submit screenshots like the following to Blackboard. Solve at least 10 of them. Make sure your screenshots shows everything you solved by re-running "rustlings watch". 
+Solve at least 10 of them. Submit the output of command "rustlings list" or screenshots like the following to Blackboard.  
 
 ![](https://imgur.com/m3QcO6e.png)
 
