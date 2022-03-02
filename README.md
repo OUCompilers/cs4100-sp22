@@ -69,6 +69,8 @@ The schedule is subject to revision.
 | Apr 25 - Apr 29 | **FINAL EXAM** (TBD) | | [PA5](pa/5.md) (23 Apr)|
 <!-- | Week 14 (19 Apr) | Register allocation | Appel 11 | No quiz -- study for finals! | -->
 
+* Note: we will move the Week 11 and Week 12 content forward one week to get ready for PA4 sooner.
+
 Assignments are due in Blackboard at 11:59pm unless otherwise specified. **Q0**, **Q1**, etc., denote quizzes in Blackboard.
 
 ## Homework and Collaboration Policies
