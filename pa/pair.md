@@ -1,4 +1,4 @@
-# Pair Programming is allowed for some PAs. For those PAs:
+# Pair Programming is allowed for PA2, PA3, and PA4. For these PAs:
 
 * One student hosts the repo and should invite the other student to join the repo.
 * These two students can discuss and collaborate in any way. It is encouraged that the two pair work together on the same computer. Code commits can come from one student's  github account. If both students were there developing the code together, the commit message should indicate that. Both students are expected to make meaningful contributions to the project.
