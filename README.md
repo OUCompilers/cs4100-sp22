@@ -59,8 +59,8 @@ The schedule is subject to revision.
 | Week 5 (8 Feb) | Garbage collection, concurrency | Appel 13 | [PA1: Assembler](pa/1.md) (12 Feb - extended to the following Wed) |
 | Week 6 (15 Feb) | Regular languages, regular expressions | Appel 2 (through 2.2) or Aho 3.3 | Q3 Garbage Collections/[PE4](pe-rustlings.md) (19 Feb - extended to the following Wed) |
 | Week 7 (22 Feb) | DFAs, NFAs, lexers and lexer generators | Appel 2.3-2.5 | [PE5](pe-regularexpressions.md)(26 Feb)/Q4 Regular Expressions (5 Mar)   |
-| Week 8 (1 Mar) | Parsing, Context-free languages, pushdown automata | Appel 3 | [PA2: VM](pa/2.md) (5 Mar) |
-| Week 9 (15 Mar) | Midterm review | | Midterm Exam (Thursday 17 Mar) |
+| Week 8 (1 Mar) | Parsing, Context-free languages, pushdown automata | Appel 3 | [PA2: VM](pa/2.md) (extended to 19 Mar) |
+| Week 9 (15 Mar) | Midterm review | | Midterm Exam Review (Thursday 17 Mar) |
 | Week 10 (22 Mar) | Recursive descent and predictive parsing, parser generators | Appel 3.2-3.3 | [PA3: GC](pa/3.md) (26 Mar) |
 | Week 11 (29 Mar) | Abstract syntax trees, type systems, typechecking | TAPL 3, 8 | Q5 (2 Apr) |
 | Week 12 (5 Apr) | Intermediate representations, code generation | [Intermediate Representations](doc/ir.md), [Code Generation](doc/codegen.md) | No quiz -- work on PA4! |
