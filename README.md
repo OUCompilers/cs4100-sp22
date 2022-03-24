@@ -62,8 +62,8 @@ The schedule is subject to revision.
 | Week 8 (1 Mar) | Parsing, Context-free languages, pushdown automata | Appel 3 | [PA2: VM](pa/2.md) (extended to 19 Mar) |
 | Week 9 (15 Mar) | Midterm review | | Midterm Exam Review (Thursday 17 Mar) |
 | Week 10 (22 Mar) | Recursive descent and predictive parsing, parser generators | Appel 3.2-3.3 | [PA3: GC](pa/3.md) (26 Mar) |
-| Week 11 (29 Mar) | Abstract syntax trees, type systems, typechecking | TAPL 3, 8 | Q5 (2 Apr) |
-| Week 12 (5 Apr) | Intermediate representations, code generation | [Intermediate Representations](doc/ir.md), [Code Generation](doc/codegen.md) | No quiz -- work on PA4! |
+| Week 11 (29 Mar) | Abstract syntax trees, type systems, typechecking | TAPL 3, 8 |  No quiz -- work on PA4! |
+| Week 12 (5 Apr) | Intermediate representations, code generation | [Intermediate Representations](doc/ir.md), [Code Generation](doc/codegen.md) | Q5 (9 Apr) |
 | Week 13 (12 Apr) | IR/codegen continued, control-flow graphs | Appel 7.1 | [PA4: IR](pa/4.md) (16 Apr) |
 | Week 14 (19 Apr) | Dataflow/liveness analysis | Appel 10.1 | No quiz -- study for finals! |
 | Apr 25 - Apr 29 | **FINAL EXAM** (TBD) | | [PA5](pa/5.md) (23 Apr)|
