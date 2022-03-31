@@ -8,32 +8,32 @@ Let's start, for the purposes of this chapter, with the following simple source 
 
 ```
 Values 
-v ::== i                    //32-bit signed integers
-       true | false         //Booleans 
-       tt                   //The "unit" value
+v ::== i                    // 32-bit signed integers
+       true | false         // Booleans 
+       tt                   // The "unit" value
 
 Expressions
-e ::== v                    //Values  
-       (u e)                //Perform unary operation u
-       (b e1 e2)            //Perform binary operation b
-       (cond econd e1 e2)   //If econd then e1 otherwise e2
-       (seq e1 e2)          //Do e1 then e2
+e ::== v                    // Values  
+       (u e)                // Perform unary operation u
+       (b e1 e2)            // Perform binary operation b
+       (cond econd e1 e2)   // If econd then e1 otherwise e2
+       (seq e1 e2)          // Do e1 then e2
 ```
 
 Our target language will include the following subset of Grumpy assembly: 
 
 ```
 Instructions
-i ::= push v     //Push value v
-    | push L     //Push label L
+i ::= push v     // Push value v
+    | push L     // Push label L
     | pop 
     | unary u
     | binary b
-    | branch     //stack = ... Vbool(b) Vloc(target) STACK_TOP: branch to target if b=true
+    | branch     // stack = ... Vbool(b) Vloc(target) STACK_TOP: branch to target if b=true
 
 Instructions or Labels
-iL ::= i         //An "il" is either an instruction 
-     | L:        //or a label "L" followed by a colon ":", as in "Lmain:".         
+iL ::= i         // An "il" is either an instruction 
+     | L:        // or a label "L" followed by a colon ":", as in "Lmain:".         
 ```
 
 Programs in the target language are sequences of instructions or labels:
@@ -119,17 +119,17 @@ Here's one way to code this pattern up:
 
 ```
 C[ (cond econd e1 e2) ] = 
-  //Compile expressions
+  // Compile expressions
   let instrs_cond = C[ econd ];
   let instrs1 = C[ e1 ];
   let instrs2 = C[ e2 ];
     
-  //Allocate fresh (unused) labels 
-  let _Lthen = fresh_label(); //Prefix "_L" means compiler internal 
+  // Allocate fresh (unused) labels 
+  let _Lthen = fresh_label(); // Prefix "_L" means compiler internal 
   let _Lelse = fresh_label(); 
   let _Lend  = fresh_label();
   
-  //Generate code
+  // Generate code
   instrs_cond ++ 
   [push _Lthen, branch, push true, push _Lelse, branch] ++
   [_Lthen:] ++ instrs1 ++ [push true, push _Lend, branch] ++
@@ -140,7 +140,7 @@ C[ (cond econd e1 e2) ] =
 We can optimize this pattern slightly, by recognizing that `branch` falls through to the next instruction when a branch isn't taken:
 
 ```
-  //Generate optimized code
+  // Generate optimized code
   instrs_cond ++ 
   [push _Lthen, branch] ++
   instrs2 ++ [push true, push _Lend, branch] ++  
@@ -171,18 +171,18 @@ We might extend the source language as:
 
 ```
 Expressions
-e ::== ...           //Everything from before plus:
-     | x             //Variables
-     | (let x e1 e2) //Let expressions: Let x equal the result of e1 in e2
+e ::== ...           // Everything from before plus:
+     | x             // Variables
+     | (let x e1 e2) // Let expressions: Let x equal the result of e1 in e2
 ```
 
 To support variables in the target language, we'll extend our instruction set with: 
 
 ```
 Instructions 
-i ::== ...       //Everything from before plus:
-     | var u32    //var i: Push the value at stack position fp+i
-     | store u32  //store i: x <- pop(); store x at stack position fp+i
+i ::== ...        // Everything from before plus:
+     | var u32    // var i: Push the value at stack position fp+i
+     | store u32  // store i: x <- pop(); store x at stack position fp+i
 ```
 
 How should we compile variables? On a register machine, the compiler has to figure out how to allocate potentially many variables to a fixed set of registers. Since we're targeting a stack machine, we'll instead store all our variables (arguments and local variables) on the stack, starting at a position marked by a special register called the *frame pointer*, or `fp` (note that on a register machine, some locals might also be stored on the stack, if their address is taken in a language like C or if they spilled, i.e., couldn't fit in registers). 
@@ -310,7 +310,7 @@ Question for self-study: What's wrong with setting the frame pointer *before* ex
 Functions in Grumpy have form: 
 
 ```
-   fn ::= (fun f param1 param2 ... paramN -> ty e) //Function definitions
+   fn ::= (fun f param1 param2 ... paramN -> ty e) // Function definitions
 ```
 
 where `param`s are pairs of strings `x` along with their expected types `ty`.
