@@ -2,6 +2,7 @@
 
 * [vim regex](http://www.vimregex.com/)
 * Parse tree visualization tool: https://bagnalla.github.io/sexp-trees/
+* Resources: ML examples: https://github.com/gstew5/cs4100-public
 
 # Rust Tips
 
