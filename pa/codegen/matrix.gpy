@@ -1,0 +1,1 @@
+% (let a (alloc 4 (alloc 4 1)) (get (get a 3) 3))

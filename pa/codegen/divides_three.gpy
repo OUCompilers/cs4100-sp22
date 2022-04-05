@@ -1,0 +1,6 @@
+(fun divisiblebythree (n i32) -> bool
+     (cond (== (* (/ n 3) 3) n) true false))
+
+%
+
+(divisiblebythree 9)
