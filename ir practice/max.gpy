@@ -1,0 +1,6 @@
+(fun max (x i32) (y i32) -> i32
+     (cond (< x y) y x))
+
+%
+
+(max 4 7)

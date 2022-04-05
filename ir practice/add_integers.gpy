@@ -1,0 +1,9 @@
+(fun sum (a (array i32)) (index i32) -> i32
+     (cond (== index -1) 0
+     	   (+ (get a index) (sum a (- index 1)))
+	   )
+)
+
+%
+
+(let a (alloc 4 10) (sum a 3))
