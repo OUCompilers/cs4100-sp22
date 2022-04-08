@@ -16,7 +16,7 @@ Topics (subject to revision): regular expressions; finite automata; context-free
 
 ## Texbook
 
-There's no one textbook that covers everything we'll be talking about in this course. Instead, we'll assign readings each week from the following sources (and maybe others):
+There's no one textbook that covers everything we'll be talking about in this course. Instead, we'll assign readings each week from the following sources:
 
 * "Compilers: Principles, Techniques, and Tools, 2nd edition" by Alfred Aho, Monica Lam, et al. Aug 31, 2006 (The purple dragon book)
 * Modern Compiler Implementation in ML, Andrew W. Appel (The tiger book)
