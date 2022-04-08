@@ -12,7 +12,7 @@ Topics (subject to revision): regular expressions; finite automata; context-free
 | **Instructors**        | Chang Liu (liuc@ohio.edu) <br /> Alexander Bagnall (ab667712@ohio.edu) |
 | **Office Hours**      | Tu 8-9:40am (email or Teams) |
 | **TA/GA**                | "Kanieski, William" <wk142016@ohio.edu> |
-| **Lab Hours**         | TBD |
+| **Lab Hours**         | Usually Fridays at 5pm, the days before PA due dates |
 
 ## Texbook
 
