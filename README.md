@@ -66,7 +66,7 @@ The schedule is subject to revision.
 | Week 12 (5 Apr) | Intermediate representations, code generation | [Intermediate Representations](doc/ir.md), [Code Generation](doc/codegen.md) | Q5 (9 Apr) |
 | Week 13 (12 Apr) | IR/codegen continued, control-flow graphs | Appel 7.1 | [PA4: IR](pa/4.md) (16 Apr) |
 | Week 14 (19 Apr) | Dataflow/liveness analysis | Appel 10.1 | No quiz -- study for finals! |
-| Apr 25 - Apr 29 | **FINAL EXAM** (TBD) | | [PA5](pa/5.md) (23 Apr)|
+| Apr 25 - Apr 29 | **FINAL EXAM** (TBD) | | [PA5](pa/5.md) (Optional, 23 Apr)|
 <!-- | Week 14 (19 Apr) | Register allocation | Appel 11 | No quiz -- study for finals! | -->
 
 * Note: we will move the Week 11 and Week 12 content forward one week to get ready for PA4 sooner.
